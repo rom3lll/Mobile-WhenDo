@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.whenDo.HomeActivity" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-30T23:08:46" hostname="DESKTOP-4DS1M3L" time="74.199">
+  <properties/>
+  <testcase name="Should_CreateUpdateDeleteTask()" classname="test.whenDo.HomeActivity" time="33.626"/>
+  <testcase name="Should_CreateTask()" classname="test.whenDo.HomeActivity" time="11.994"/>
+  <testcase name="Should_DeleteTask()" classname="test.whenDo.HomeActivity" time="28.579"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jul 30, 2021 7:08:54 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jul 30, 2021 7:09:27 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Jul 30, 2021 7:09:39 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

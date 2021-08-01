@@ -1,0 +1,32 @@
+activity/AlertScreen.java
+ activity.AlertScreen
+factoryDevice/BrowserStack.java
+ factoryDevice.BrowserStack
+activity/CreateTaskScreen.java
+ activity.CreateTaskScreen
+factoryDevice/IDevice.java
+ factoryDevice.IDevice
+factoryDevice/Cloud.java
+ factoryDevice.Cloud
+controlAppium/TextBox.java
+ controlAppium.TextBox
+factoryDevice/IOS.java
+ factoryDevice.IOS
+factoryDevice/FactoryDevice.java
+ factoryDevice.FactoryDevice
+ factoryDevice.FactoryDevice$1
+ factoryDevice.FactoryDevice$DeviceType
+factoryDevice/Android.java
+ factoryDevice.Android
+controlAppium/Button.java
+ controlAppium.Button
+controlAppium/Label.java
+ controlAppium.Label
+session/Session.java
+ session.Session
+controlAppium/Control.java
+ controlAppium.Control
+activity/MainScreen.java
+ activity.MainScreen
+test/whenDo/HomeActivity.java
+ test.whenDo.HomeActivity
